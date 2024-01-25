@@ -25,10 +25,7 @@ async def say_perfect(ctx):
 # async def say_perfect(ctx):
 #     # chanel=bot.get_channel(1198561923957006420)
 #     await ctx.send('愛月喵') 
-@bot.command(name='斗內')
-async def say_perfect(ctx):
-    # chanel=bot.get_channel(1198561923957006420)
-    await ctx.send(':ballot_box_with_check:『從這裡斗內, 主播才不會被Twitch抽成50%』\n\n:point_right:歐付寶 https://reurl.cc/Kp7MrM \n:point_right:[台新銀行812] 20611000293805\n:point_right:[永豐銀行807] 03301800061754') 
+
 @bot.command(name='結婚')
 async def say_perfect(ctx):
     # chanel=bot.get_channel(1198561923957006420)
